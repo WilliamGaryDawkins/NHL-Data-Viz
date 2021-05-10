@@ -12,3 +12,5 @@ This project works to create interactive visualizations using ipywidgets in a ju
 4. Scatter plots/Heat maps of a player's shots and goals for a given season. The user enters a player they are interested in, the season and whether they want to see shots or goals. The visualization then produces a scatter plot or heat map according to the user's choice displaynig where the given player took their shots or scored their goals from on the ice surface.
 
 5. Scatter plots for events in a given game. The user gives a game they are interested in viewing and the event they are interested in (shots, goals, hits, takeaways etc.) and a scatter plot shows where on the ice these events took place during the game, coloured by each team. 
+
+The PDF file in this repo contains a formal write-up for this project and also displays figures showing examples for all listed visualizations.
